@@ -1,0 +1,14 @@
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\bin\Debug\net8.0-windows\EthernetIPAdapterSimulator.exe
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\bin\Debug\net8.0-windows\EthernetIPAdapterSimulator.deps.json
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\bin\Debug\net8.0-windows\EthernetIPAdapterSimulator.runtimeconfig.json
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\bin\Debug\net8.0-windows\EthernetIPAdapterSimulator.dll
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\bin\Debug\net8.0-windows\EthernetIPAdapterSimulator.pdb
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.AssemblyInfoInputs.cache
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.AssemblyInfo.cs
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.csproj.CoreCompileInputs.cache
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.dll
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\refint\EthernetIPAdapterSimulator.dll
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.pdb
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\EthernetIPAdapterSimulator.genruntimeconfig.cache
+C:\Users\thkdo\Downloads\EthernetIP_AdapterSimulator\EthernetIPAdapterSimulator\obj\Debug\net8.0-windows\ref\EthernetIPAdapterSimulator.dll
